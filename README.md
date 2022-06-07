@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything Blockchain and Smart Contracts related
 - 📫 How to reach me:
 email: atharvapatel777@gmail.com;
-instagram: _p3ace7
+instagram: athxrva7
 
 <!---
 Atharva777/Atharva777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
